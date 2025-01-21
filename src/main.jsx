@@ -1,11 +1,13 @@
-import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
+import Header from "./Header";
+import MainContent from "./MainContent";
+import Footer from "./Footer";
 import "./index.css";
-import App from "./App.jsx";
 
 createRoot(document.getElementById("root")).render(
   <>
-    <App />
-    <h1>test</h1>
+    <Header />
+    <MainContent />
+    <Footer />
   </>
 );
