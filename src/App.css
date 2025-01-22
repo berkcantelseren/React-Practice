@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: monospace, sans-serif;
-  background: #27292c;
+  background: #282d35;
   color: white;
 }
 
@@ -30,4 +30,27 @@ header {
   font-size: 1.4rem;
   margin-left: 7px;
   color: #61daf1;
+}
+
+main {
+  padding: 60px 30px;
+}
+
+main > h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+ul > li {
+  list-style-type: disc;
+}
+
+.facts-list {
+  margin-top: 46px;
+  min-width: 400px;
+}
+
+.facts-list > li {
+  padding-block: 10px;
+  line-height: 19px;
 }
