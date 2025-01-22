@@ -54,3 +54,8 @@ ul > li {
   padding-block: 10px;
   line-height: 19px;
 }
+
+.facts-list > li::marker {
+  color: #61daf1;
+  font-size: 1.5rem;
+}
