@@ -1,10 +1,8 @@
 export default function Navbar() {
   return (
     <header>
-      <nav>
-        <img src="../src/assets/react.svg" className="logo" alt="React Logo" />
-        <span className="logoName">ReactFacts</span>
-      </nav>
+      <img src="../src/assets/globe.png" className="logo" alt="Globe Logo" />
+      <h1 className="logoName">my travel journal.</h1>
     </header>
   );
 }
