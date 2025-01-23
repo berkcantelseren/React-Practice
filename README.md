@@ -1,6 +1,6 @@
 # React Learning Plan
 
-## Core React Concepts
+## Core Concepts
 
 ### 1. Introduction to React
 
@@ -101,3 +101,4 @@
 
 - Building a small project (e.g., a to-do app, weather app, or blog)
 - Deploying with services like Vercel or Netlify
+- Work with next.js to make some real life apps.
