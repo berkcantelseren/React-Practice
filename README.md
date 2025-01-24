@@ -1,5 +1,9 @@
 # React Learning Plan
 
+## Screenshots
+
+![Home](src/assets/main.png)
+
 ## Core Concepts
 
 ### 1. Introduction to React
